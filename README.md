@@ -1,2 +1,2 @@
 # Homework
-Repository for all  Homework assignments
+Repository for all  Homework assignments.
