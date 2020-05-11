@@ -1,2 +1,2 @@
-# Homework
-Repository for all  Homework assignments.
+# CodeRefactor
+Refactored Code
